@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/goit-react-hw-05-movies/tabs/static/css/main.7acaea2f.css",
-    "main.js": "/goit-react-hw-05-movies/tabs/static/js/main.6cc39d1a.js",
-    "static/js/207.b3ac9d99.chunk.js": "/goit-react-hw-05-movies/tabs/static/js/207.b3ac9d99.chunk.js",
-    "static/js/702.07ff9a25.chunk.js": "/goit-react-hw-05-movies/tabs/static/js/702.07ff9a25.chunk.js",
-    "index.html": "/goit-react-hw-05-movies/tabs/index.html",
-    "main.7acaea2f.css.map": "/goit-react-hw-05-movies/tabs/static/css/main.7acaea2f.css.map",
-    "main.6cc39d1a.js.map": "/goit-react-hw-05-movies/tabs/static/js/main.6cc39d1a.js.map",
-    "207.b3ac9d99.chunk.js.map": "/goit-react-hw-05-movies/tabs/static/js/207.b3ac9d99.chunk.js.map",
-    "702.07ff9a25.chunk.js.map": "/goit-react-hw-05-movies/tabs/static/js/702.07ff9a25.chunk.js.map"
+    "main.css": "/Test-assignment-for-Backendless/tabs/static/css/main.7acaea2f.css",
+    "main.js": "/Test-assignment-for-Backendless/tabs/static/js/main.8d53c1de.js",
+    "static/js/207.b3ac9d99.chunk.js": "/Test-assignment-for-Backendless/tabs/static/js/207.b3ac9d99.chunk.js",
+    "static/js/702.07ff9a25.chunk.js": "/Test-assignment-for-Backendless/tabs/static/js/702.07ff9a25.chunk.js",
+    "index.html": "/Test-assignment-for-Backendless/tabs/index.html",
+    "main.7acaea2f.css.map": "/Test-assignment-for-Backendless/tabs/static/css/main.7acaea2f.css.map",
+    "main.8d53c1de.js.map": "/Test-assignment-for-Backendless/tabs/static/js/main.8d53c1de.js.map",
+    "207.b3ac9d99.chunk.js.map": "/Test-assignment-for-Backendless/tabs/static/js/207.b3ac9d99.chunk.js.map",
+    "702.07ff9a25.chunk.js.map": "/Test-assignment-for-Backendless/tabs/static/js/702.07ff9a25.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.6cc39d1a.js"
+    "static/js/main.8d53c1de.js"
   ]
 }
