@@ -6,7 +6,7 @@ import './index.css';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <BrowserRouter  basename="/goit-react-hw-05-movies/tabs">
+    <BrowserRouter  basename="/Test-assignment-for-Backendless/tabs">
       <App />
     </BrowserRouter>
   </React.StrictMode>
